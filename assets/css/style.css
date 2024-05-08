@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-image: url(/assets/imagens/inova.png);
+    background-image: url(/assets/imagens/Centro-Historico\ .jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -94,22 +94,20 @@ form .input-group button{
     font-size: 16px;
 }
 
-
+ 
   
+.input {
+    visibility: hidden;
+    position: absolute;
+}
 
-  input[type="file"] {
-    display: none;
-  }
-  
-  .custom-file-button {
-    background-image: url("assets/imagens/subir-arquivo.png");
-    border-radius: 5px;
-    color: white;
+.label {
+    padding: 8px 12px;
+    border: 2px solid #ccc;
+    border-radius: 20px;
     cursor: pointer;
-     margin: 10px;
-    padding: 6px 20px
-  }
-
+    border-color: #ff008869;
+}
 
   
 
