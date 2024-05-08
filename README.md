@@ -5,5 +5,5 @@
   Tudo que estiver no seu levantamento anterior, precisa estar na sua entrega final. </p>
 
   ### Mapa 
-  ![mapa](./assets/imagens/passo a passo.png)
+  ![](./assets/imagens/mapa.PNG)
 
